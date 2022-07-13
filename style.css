@@ -19,7 +19,7 @@ body {
     background-color: white;
     position: relative;
     border-radius: 15px;
-    overflow: hidden;   /* to hid the other forms*/
+    overflow: hidden;   /* to hide the other forms*/
 }
 h3{
     text-align: center;
